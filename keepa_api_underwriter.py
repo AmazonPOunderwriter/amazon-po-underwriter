@@ -7,7 +7,7 @@ import keepa
 import pandas as pd
 
 # ========== CONFIGURATION ==========
-KEEPA_API_KEY = '39i4m975lhef66iq8lcroumgrdaqk88c9cf47ehmlanjtucl276b7ub5dpshamrh'
+KEEPA_API_KEY = 'INPUT KEEPA API HERE !!!'
 EXTRA_COST_PER_UNIT = 0.72
 FBA_FEE_DEFAULT = 4.15
 REFERRAL_FEE_PERCENT = 0.15
